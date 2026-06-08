@@ -5,7 +5,7 @@ leads**. Run one command to interview yourself, and Claude generates a
 personalized 3-, 5-, or 8-week learning plan. Two daily commands then brief you,
 quiz you, and track your progress.
 
-This is a **template repo** — use it as a starting point for your own copy
+**This is a template repo** — use it as a starting point for your own copy
 (click **Use this template**, or fork it). Your personal plan and progress live
 in *your* copy.
 
